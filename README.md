@@ -14,4 +14,4 @@ Bring dead cells to life and vice versa with the left mouse button.\
 ![Alt text](/Screenshot2.png?raw=true)
 
 ## Requirements
-Start the application using [Processing](https://processing.org/download/).
+Start the application using [Processing](https://processing.org/download/)
